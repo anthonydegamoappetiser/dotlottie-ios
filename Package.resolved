@@ -3,11 +3,11 @@
     "pins": [
       {
         "package": "dotLottieLoader",
-        "repositoryURL": "https://github.com/dotLottie/dotLottieLoader",
+        "repositoryURL": "https://github.com/anthonydegamoappetiser/dotlottieLoader-ios",
         "state": {
-          "branch": null,
-          "revision": "2760eeecfde0dcc4f8974acef1fc6ed5c0b45b09",
-          "version": "0.1.8"
+          "branch": "temp-fix-019",
+          "revision": "86f6f402affe3ffdd12f72bec61180125818ebe7",
+          "version": null
         }
       },
       {
